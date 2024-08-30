@@ -20,11 +20,11 @@ Links:
 
 ```bash
 # install dependencies
-pnpm install
+bun install
 # start vite dev server
-pnpm run dev
+bun run dev
 # build (output path /dist)
-pnpm run build
+bun run build
 ```
 
 ### Built with
